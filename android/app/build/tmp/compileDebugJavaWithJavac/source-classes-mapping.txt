@@ -1,0 +1,14 @@
+com/pulseapp/ReactNativeFlipper.java
+ com.pulseapp.ReactNativeFlipper
+ com.pulseapp.ReactNativeFlipper$1
+ com.pulseapp.ReactNativeFlipper$2
+ com.pulseapp.ReactNativeFlipper$2$1
+com/pulseapp/MainApplication.java
+ com.pulseapp.MainApplication
+ com.pulseapp.MainApplication$1
+com/pulseapp/MainActivity.java
+ com.pulseapp.MainActivity
+com/pulseapp/BuildConfig.java
+ com.pulseapp.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

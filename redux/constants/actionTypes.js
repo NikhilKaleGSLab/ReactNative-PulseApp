@@ -1,0 +1,11 @@
+export const ActionTypes = {
+  SET_EMPLOYEES: 'SET_EMPLOYEES',
+  SET_FILTER_EMPLOYEES: 'SET_FILTER_EMPLOYEES',
+
+  // metting action types
+  SET_TITLE: 'SET_TITLE',
+  SET_STARTS: 'SET_STARTS',
+  SET_ENDS: 'SET_ENDS',
+  SET_REPEAT: 'SET_REPEAT',
+  SET_ROOM: 'SET_ROOM',
+};
